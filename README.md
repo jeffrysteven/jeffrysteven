@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a software engineer who is passionate about making web. Some technologies I enjoy working with include Node.JS, ReactJS, Angular, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+I'm a software engineer who is passionate about making web. Some technologies I enjoy working with include Node.JS, React.JS, Angular, Jamstack (JavaScript, APIs + Markup) and GraphQL.
 
 #### 📫 How to reach me: 
 ```javascript
@@ -20,6 +20,19 @@ I'm a software engineer who is passionate about making web. Some technologies I 
 ```
 
 ## Experience 
+#### Endava — Medellín, CO
+
+> **Senior Software Engineer** (*Apr 2018 - Current*)
+
+##### Projects
+  - **Health care consulting client:** Member of a team focused on migrate a platform of documentation management and clinical review from Silverlight to Angular 7 Framework.
+  
+    - Architected and implemented reusable Angular components for use throughout the app for document uploads/downloads, calendar events and alerts, schedule tasks and hospital management/reporting.
+    - Created component tests with Jasmine/Protractor, including testable reusable components distributed via npm packages.
+    - Created customizable D3 visualizations for open source (not yet released) and internal use. Visualizations included standard charts (BarChart, LineChart, etc.) as well as custom concepts based on UX designs.
+    - Effectively communicated to teams (remote and in-office) to remain in sync via Skype/Teams/Email.
+
+---
 
 ## Technologies
 
