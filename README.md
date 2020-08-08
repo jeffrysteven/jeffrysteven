@@ -23,7 +23,7 @@ I'm a software engineer who is passionate about making web. Some technologies I 
 
 ## Technologies
 
-## Education
+## Education
 
 Here are some ideas to get you started:
 
