@@ -22,40 +22,106 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
 ## Experience 
 #### Endava — Medellín, Colombia
 
-> **Software Engineer** (*Apr 2018 - Current*)
+> **Senior Developer** (*Apr 2018 - Current*)
 
 ##### Projects
   - **Health care/ Seniors wellbeing client:** Member of a team focused on migrate a platform of patients management Angular.JS to Angular 10 Framework.
   
-    - Implementation and architecture of Angular components and pages to be used throughout the app for patients search, management and hospital discharge.
+    - Architecture and implementation of Angular components and pages to be used throughout the app for patients search, patients management and hospital discharge.
     - Create component tests with Jasmine.
     - Effectively communication with teams (remote and in-office) to remain in sync via Slack/Teams/Email.
     
   - **Advertisement, Marketing, AdTech client:** Member of a team focused on creating RESTful APIs, design systems and reusable UI components built for product and in-house apps.
     
-    - Architected and implemented Node.JS API endpoints using Hapi.JS, PostgreSQL and Snowflake cloud databases.
-    - Architected and implemented reusable React components for use throughout multiple products for TV ad campaign management/planning/reporting.
-    - Created customizable UI components and D3 visualizations based on UX designs for open source (not yet released) and internal use libraries.
-    - Created API and UI tests with Jest/Enzyme/Percy.
+    - Architecture and implementation of Node.JS API endpoints using Hapi.JS, PostgreSQL and Snowflake cloud databases.
+    - Architecture and implementation of reusable React components for use throughout multiple products for TV ad campaign management/planning/reporting.
+    - Create customizable UI components and D3 visualizations based on UX designs for open source (not yet released) and internal use libraries.
+    - Create API endpoints and UI tests with Jest/Enzyme/Percy.
     - Integration with AWS S3.
-    - Effectively communicated to teams (remote and in-office) to remain in sync via Slack/Zoom/Email.
+    - Effectively communication with teams (remote and in-office) to remain in sync via Slack/Zoom/Email.
     
   - **Auctions, specialty retail client:** Member of a team focused on create a platform to manage and search artwork, adding mission critical pages/components to give users a way to quickly view data about fine art and collectibles around the world.
   
-    - Architected and implemented reusable Angular components for use throughout the app for artwork search, tagging and data visualization.
-    - Created component tests with Jasmine.
+    - Architecture and implementation of reusable Angular components for use throughout the app for artwork search, tagging and data visualization.
+    - Create component tests with Jasmine.
     - Integration with AWS S3.
-    - Effectively communicated to teams (remote and in-office) to remain in sync via Slack/Zoom/Email.
+    - Effectively communication with teams (remote and in-office) to remain in sync via Slack/Zoom/Email.
     
   - **Health care consulting client:** Member of a team focused on migrate a platform of documentation management and clinical review from Silverlight to Angular 7 Framework.
   
-    - Architected and implemented reusable Angular components for use throughout the app for document uploads/downloads, calendar events and alerts, schedule tasks and hospitals management/reporting.
-    - Created component and E2E tests with Jasmine/Protractor, including testable reusable components distributed via npm packages.
-    - Effectively communicated to teams (remote and in-office) to remain in sync via Skype/Teams/Email.
+    - Architecture and implementation of reusable Angular components for use throughout the app for document uploads/downloads, calendar events and alerts, schedule tasks and hospitals management/reporting.
+    - Create component and E2E tests with Jasmine/Protractor, including testable reusable components distributed via npm packages.
+    - Effectively communication with teams (remote and in-office) to remain in sync via Skype/Teams/Email.
+
+#### Cafeto Software — Cali, Colombia
+
+> **Software Engineer** (*July 2016 - March 2018*)
+
+##### Projects
+  - **Health care/ Seniors wellbeing client:** Mobile applications for wellbeing in seniors and medical appointments.
+  
+    - Architecture and implementation of the mobile app and reusable Ionic components.
+    - Integration with Firebase Real-time database and cloud functions with Node.JS.
+    
+  - **Schools recruiting agency client:** Member of a team focused on creating recruiting tool SAAS for Australian schools/univesities and China students.
+  
+    - Implementation of Node.JS API endpoints using Restify.JS and GraphQL.
+    - Architecture and implementation of the app and reusable Angular components.
+    - Integration and usage of AWS S3, AWS Workdocs, AWS SES, Apollo, Stream.IO.
+    
+  - **IT Support Level 2/3 client:** Member of a team focused on creating a process monitoring tool to display the services and machine critical processes, used for monitoring and reporting for critical issues in those processes (system heavy loads or faults).
+  
+    - Implementation of Node.JS API endpoints using Restify.JS.
+    - Architecture and implementation of reusable Angular components for use throughout the app.
+    - Shell scripting with Node.JS.
+    - Socket.IO for real time alerts.
+
+  - **Human resources client:** Member of a team focused on creating RESTful APIs, frontend app and reusable UI components for a SAAS product.
+  
+    - Implementation of of Node.JS API endpoints using Express.JS.
+    - Architecture and Implementation of reusable Angular components for use throughout the app.
+    - Integration with Java microservices.
+    - Integration with Okta and Auth0.
+    - Integration with AWS S3.
+    
+#### Agnos SAS (Parquesoft)— Cali, Colombia
+
+> **Software Engineer** (*May 2011 - June 2016*)
+
+##### Projects
+
 
 ---
 
-## Technologies
+## Skills
+
+
+| Languages | Level  |
+| ------------- |:-------------:|  
+| Spanish | Native |  
+| English | Profesional |
+
+| Programming Languages & Platforms | Level/Experience  |
+| ------------- |:-------------:|  
+| Javascript      | ⚫ ⚫ ⚫ ⚫ ⚫ |  
+| Node.JS      | ⚫ ⚫ ⚫ ⚫ ⚫ |  
+| Typescript | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| Angular | ⚫ ⚫ ⚫ ⚫ ⚫ |
+| HTML (HTML5, CSS3) | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| React/React Native | ⚫ ⚫ ⚫ ⚫ ⚫ |
+| Git | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| GraphQL | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| Docker | ⚫ ⚫ ⚫ ⚪ ⚪ |
+| Angular.JS | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| Firebase | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| PHP | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| SQL | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| Shell Scripting | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| MySQL | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| PostgreSQL | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| MongoDB | ⚫ ⚫ ⚫ ⚫ ⚪ |
+| Java | ⚫ ⚫ ⚫ ⚪ ⚪ |
+| Kotlin | ⚫ ⚫ ⚫ ⚪ ⚪ |
 
 ## My Talks :nerd_face:
   - [@ngRx/data - Angular Day Medellín 2019](https://www.evensi.com/angular-day-rutan/312509380) [[Slides](https://docs.google.com/presentation/d/1KM8AT2UJo7q2tPN43F52OvYqGLxyn7RNIJJ-lTrjIH8/edit?usp=sharing)]
