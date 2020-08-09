@@ -27,9 +27,9 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
 ##### Projects
   - **Health care/ Seniors wellbeing client:** Member of a team focused on migrate a platform of patients management Angular.JS to Angular 10 Framework.
   
-    - Architected and implemented reusable Angular components and pages for use throughout the app for patients search, management and hospital discharge.
-    - Created component tests with Jasmine.
-    - Effectively communicated to teams (remote and in-office) to remain in sync via Slack/Teams/Email.
+    - Implementation and architecture of Angular components and pages to be used throughout the app for patients search, management and hospital discharge.
+    - Create component tests with Jasmine.
+    - Effectively communication with teams (remote and in-office) to remain in sync via Slack/Teams/Email.
     
   - **Advertisement, Marketing, AdTech client:** Member of a team focused on creating RESTful APIs, design systems and reusable UI components built for product and in-house apps.
     
