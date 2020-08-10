@@ -10,7 +10,7 @@
 
 I'm a software engineer who is passionate about making web and APIs. Some technologies I enjoy working with include Node.JS, React.JS, Angular, Jamstack (JavaScript, APIs + Markup) and GraphQL.
 
-#### 📫 How to reach me: 
+#### 📫  How to reach me: 
 ```javascript
 {
   email: "jeffrey@gmail.com",
@@ -26,13 +26,11 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
 
 ##### Projects
   - **Health care/ Seniors wellbeing client:** Member of a team focused on migrate a platform of patients management Angular.JS to Angular 10 Framework.
-  
     - Architecture and implementation of Angular components and pages to be used throughout the app for patients search, patients management and hospital discharge.
     - Create component tests with Jasmine.
     - Effectively communication with teams (remote and in-office) to remain in sync via Slack/Teams/Email.
     
   - **Advertisement, Marketing, AdTech client:** Member of a team focused on creating RESTful APIs, design systems and reusable UI components built for product and in-house apps.
-    
     - Architecture and implementation of Node.JS API endpoints using Hapi.JS, PostgreSQL and Snowflake cloud databases.
     - Architecture and implementation of reusable React components for use throughout multiple products for TV ad campaign management/planning/reporting.
     - Create customizable UI components and D3 visualizations based on UX designs for open source (not yet released) and internal use libraries.
@@ -41,7 +39,6 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
     - Effectively communication with teams (remote and in-office) to remain in sync via Slack/Zoom/Email.
     
   - **Auctions, specialty retail client:** Member of a team focused on create a platform to manage and search artwork, adding mission critical pages/components to give users a way to quickly view data about fine art and collectibles around the world.
-  
     - Architecture and implementation of reusable Angular components for use throughout the app for artwork search, tagging and data visualization.
     - Create component tests with Jasmine.
     - Integration with AWS S3.
@@ -65,7 +62,7 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
     
   - **Schools recruiting agency client:** Member of a team focused on creating recruiting tool SAAS for Australian schools/univesities and China students.
   
-    - Implementation of Node.JS API endpoints using Restify.JS and GraphQL.
+    - Implementation of Node.JS API endpoints using Restify.JS, Sequelize.JS and GraphQL.
     - Architecture and implementation of the app and reusable Angular components.
     - Integration and usage of AWS S3, AWS Workdocs, AWS SES, Apollo, Stream.IO.
     
@@ -78,18 +75,47 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
 
   - **Human resources client:** Member of a team focused on creating RESTful APIs, frontend app and reusable UI components for a SAAS product.
   
-    - Implementation of of Node.JS API endpoints using Express.JS.
+    - Implementation of Node.JS API endpoints using Express.JS.
     - Architecture and Implementation of reusable Angular components for use throughout the app.
     - Integration with Java microservices.
     - Integration with Okta and Auth0.
     - Integration with AWS S3.
     
-#### Agnos SAS (Parquesoft)— Cali, Colombia
+#### Agnos (Parquesoft)— Cali, Colombia
 
 > **Software Engineer** (*May 2011 - June 2016*)
 
 ##### Projects
-
+  - **Marketing client:** Member of a team focused on designing, creating and deploying an app to generate dynamic surveys.
+  
+    - Architecture and implementation of Web services using PHP and PostgreSQL.
+    - Architecture and Implementation of frontend app using PHP, HTML5, Jquery and BootstrapCSS.
+    - Architecture and implementation of reusable web components for use throughout the app.
+    
+  - **Public services client:** Member of a team focused on designing, creating and deploying an app for data recollection, prediction and visualization using data mining algorithms.
+  
+    - Architecture and implementation of Web services using Java(Hibernate) and MySQL.
+    - Architecture and Implementation of frontend app using PHP, HTML5, Jquery and BootstrapCSS.
+    - Dynamic creation of Weka datasets using data from different sources.
+    - Integration Google API's (Maps, Drive).
+  
+  - **Point of Sale SAAS client:** Member of a team focused on designing, creating and deploying a cloud based POS.
+  
+    - Architecture and implementation of Web services using Java(Hibernate) and PostgreSQL.
+    - Architecture and Implementation of frontend app using HTML5, Jquery and BootstrapCSS.
+    
+  - **Public services client:** Member of a team focused on designing, creating and deploying ETL's and an application for bills processing using OCR for data mining predictions.
+  
+    - Architecture and implementation of PHP(Codeigniter)/MySQL/Oracle Rest API endpoints.
+    - Architecture and implementation of ETL's using Java.
+    - Architecture and Implementation of frontend app using HTML5, Jquery and BootstrapCSS.
+    - OCR technologies to transform from PDF's and Excel files to estructured database data.
+    
+  - **Manufacturing client:** Member of a team focused on designing, creating and deploying RESTful APIs, frontend app for automation of reporting/timing in production process including planning, manufacture and logistics in factories using barcodes.
+  
+    - Architecture and implementation of PHP/SQL-Server Rest API endpoints.
+    - Architecture and Implementation of frontend app using Jquery and BootstrapCSS.
+    - Integration with Wi-Fi Barcode Scanners.
 
 ---
 
@@ -99,7 +125,7 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
 | Languages | Level  |
 | ------------- |:-------------:|  
 | Spanish | Native |  
-| English | Profesional |
+| English | Professional |
 
 | Programming Languages & Platforms | Level/Experience  |
 | ------------- |:-------------:|  
@@ -136,6 +162,9 @@ Systems Engineer
 **Institución Universitaria Antonio José Camacho**  
 Cali, Colombia  
 Systems Technologist
+
+[Other Trainings/Courses](https://drive.google.com/drive/folders/1bKNuagvw8yWi3rE-gMN3Dj4T2aVpduOq?usp=sharing)
+
 
 ---
 ⚡ Fun fact: I'm also a DJ 🎧.
