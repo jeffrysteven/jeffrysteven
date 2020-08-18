@@ -13,7 +13,7 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
 #### 📫  How to reach me: 
 ```javascript
 {
-  email: "jeffrey@gmail.com",
+  email: "jeffreyleji@gmail.com",
   phone: "(+57) 318 6908757",
   location: "Medellín, Colombia"
 }
