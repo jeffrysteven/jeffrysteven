@@ -14,8 +14,7 @@ I'm a software engineer who is passionate about making web and APIs. Some techno
 ```javascript
 {
   email: "jeffreyleji@gmail.com",
-  phone: "(+57) 318 6908757",
-  location: "Medellín, Colombia"
+  location: "Cali, Colombia"
 }
 ```
 
